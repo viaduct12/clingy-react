@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clingy-react/static/css/main.7d69e242.chunk.css",
+    "main.js": "/clingy-react/static/js/main.90b8f66c.chunk.js",
+    "main.js.map": "/clingy-react/static/js/main.90b8f66c.chunk.js.map",
+    "runtime~main.js": "/clingy-react/static/js/runtime~main.c1bb17bd.js",
+    "runtime~main.js.map": "/clingy-react/static/js/runtime~main.c1bb17bd.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/clingy-react/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/clingy-react/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/clingy-react/index.html",
+    "precache-manifest.b64aa62d39af28df5002285f67e80967.js": "/clingy-react/precache-manifest.b64aa62d39af28df5002285f67e80967.js",
+    "service-worker.js": "/clingy-react/service-worker.js",
+    "static/css/main.7d69e242.chunk.css.map": "/clingy-react/static/css/main.7d69e242.chunk.css.map"
+  }
+}
